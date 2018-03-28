@@ -15,8 +15,7 @@ import org.json.JSONObject;
 public class APITest {
 
     /** Subscription key. Replace with your API key. */
-    private static final String SUBSCRIPTION_KEY =
-            "13hc77781f7e4b19b5fcdd72a8df7156";
+    private static final String SUBSCRIPTION_KEY = "9633b772f22c4bde81edfbb95b362c4c";
 
     /**
      * Region to use.
